@@ -93,7 +93,7 @@ graph LR
    python -m venv .venv
    .venv\Scripts\activate          # Для Windows
    # source .venv/bin/activate     # Для macOS/Linux
-   pip install -r scripts/requirements.txt
+   pip install -r requirements.txt
    ```
 
 4. **Запуск ETL:** Откройте `notebooks/etl.ipynb` и выполните все ячейки сверху вниз (`Run -> Run All`).
